@@ -1,4 +1,4 @@
-<h1 align="center">Hey There 👋, I'm Seif Aldin Yasser</h1>
+<h1 align="center">Hi There 👋, I'm Seif Aldin Yasser</h1>
 
 ###
 
@@ -79,7 +79,8 @@
 <h2 align="left">💻 Projects </h2>
 
 ###
-<h3 align="left"> 👉 Click Here to View My Projects.</h3>
+
+<a href="https://github.com/Seif-Aldin-Yasser?tab=repositories"><h3 align="left"> 👉 Click Here to View My Projects.</h3></a>
 
 ###
 
