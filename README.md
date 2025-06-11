@@ -80,7 +80,7 @@
 
 ###
 
-<a href="https://github.com/Seif-Aldin-Yasser?tab=repositories"><h3 align="left"> 👉 Click Here to View My Projects.</h3></a>
+<h3 align="left"> <a href="https://github.com/Seif-Aldin-Yasser?tab=repositories">👉 Click Here to View My Projects.</a></h3>
 
 ###
 
