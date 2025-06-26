@@ -28,7 +28,7 @@
   <img width="12" />
    <a href="https://appium.io/docs/en/latest/"><img src="https://th.bing.com/th/id/R.5b8483b66d7931f0a03d50b51a4e920d?rik=%2bE29URy6WxR20w&riu=http%3a%2f%2fdefinitiontech.co%2fwp-content%2fuploads%2f2018%2f05%2fappium-logo.png&ehk=1ot5yuhGfqeR0kbkt9U278HTWJeiU2c5rR4mBycv26k%3d&risl=&pid=ImgRaw&r=0" height="35" alt="appium logo"/></a>
    <img width="12" />
-   <a href="https://rest-assured.io/"><img src="https://avatars.githubusercontent.com/u/19369327?s=280&v=4" height="40" alt="restassured logo"/></a>
+   <a href="https://rest-assured.io/"><img src="https://rest-assured.io/img/logo-transparent.png" height="40" alt="restassured logo"/></a>
   <img width="12" />
  <a href="https://testng.org/"><img src="https://howtodoinjava.com/wp-content/uploads/2014/12/TestNG.png" height="40" alt="testng logo"/></a>
   <img width="12" />
