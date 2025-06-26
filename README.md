@@ -28,7 +28,7 @@
   <img width="12" />
    <a href="https://appium.io/docs/en/latest/"><img src="https://th.bing.com/th/id/R.5b8483b66d7931f0a03d50b51a4e920d?rik=%2bE29URy6WxR20w&riu=http%3a%2f%2fdefinitiontech.co%2fwp-content%2fuploads%2f2018%2f05%2fappium-logo.png&ehk=1ot5yuhGfqeR0kbkt9U278HTWJeiU2c5rR4mBycv26k%3d&risl=&pid=ImgRaw&r=0" height="35" alt="appium logo"/></a>
    <img width="12" />
-   <a href="https://rest-assured.io/"><img src="https://rest-assured.io/img/logo-transparent.png" height="40" alt="restassured logo"/></a>
+   <a href="https://rest-assured.io/"><img src="https://rest-assured.io/img/logo-transparent.png" height="35" alt="rest assured logo"/></a>
   <img width="12" />
  <a href="https://testng.org/"><img src="https://howtodoinjava.com/wp-content/uploads/2014/12/TestNG.png" height="40" alt="testng logo"/></a>
   <img width="12" />
@@ -52,6 +52,8 @@
   <a href="https://www.mysql.com/"><img src="https://th.bing.com/th/id/R.bab2c760c60f17191cb3a002e08a3dbf?rik=X5IeaawJvNTZDg&pid=ImgRaw&r=0" height="35" alt="mysql logo"/></a>
   <img width="12" />
   <a href="https://www.microsoft.com/en/sql-server/?msockid=1de1cf97d03f613f341ada7fd143608d"><img src="https://www.freeiconspng.com/uploads/sql-server-icon-png-1.png" height="35" alt="microsoft sql server logo"  /></a>
+  <img width="12" />
+    <a href="https://jmeter.apache.org/"><img src="https://logodix.com/logo/1588313.png" height="35" alt="jmeter logo"  /></a>
   <img width="12" />
   <a href="https://www.browserling.com/"><img src="https://cdn.freebiesupply.com/logos/large/2x/browserling-logo-png-transparent.png" height="35" alt="browserling logo"/></a>
   <img width="12" />
