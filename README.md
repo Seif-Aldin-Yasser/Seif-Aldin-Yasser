@@ -53,8 +53,6 @@
   <img width="12" />
   <a href="https://www.microsoft.com/en/sql-server/?msockid=1de1cf97d03f613f341ada7fd143608d"><img src="https://www.freeiconspng.com/uploads/sql-server-icon-png-1.png" height="35" alt="microsoft sql server logo"  /></a>
   <img width="12" />
-    <a href="https://jmeter.apache.org/"><img src="https://logodix.com/logo/1588313.png" height="35" alt="jmeter logo"  /></a>
-  <img width="12" />
   <a href="https://www.browserling.com/"><img src="https://cdn.freebiesupply.com/logos/large/2x/browserling-logo-png-transparent.png" height="35" alt="browserling logo"/></a>
   <img width="12" />
   <a href="https://www.jetbrains.com/idea/"><img src="https://th.bing.com/th/id/R.98865e06d77faca32b3e118df119049e?rik=AU0%2bE0ROLAbnog&riu=http%3a%2f%2flogonoid.com%2fimages%2fintellij-idea-logo.png&ehk=CapqYnZAeX0cbsUWxFNWr913YwdQDC7OFt%2ftIAEb%2fBU%3d&risl=&pid=ImgRaw&r=0" height="35" alt="intellij idea logo"/></a>
