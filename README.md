@@ -6,7 +6,7 @@
 
 ###
 
-<h3>- 🧑‍💼 I'm currently a Teaching Assistant in the Computer Science Department at Thebes Academy.
+<h3>- 🧑‍💼 I'm currently a Management Information Systems Specialist and Teaching Assistant in the Computer Science Department at Thebes Academy.
 <h3>- 🎓 I Earned a Bachelor's Degree in Computer Science from Thebes Academy in 2021.</h3>
 
 ###
