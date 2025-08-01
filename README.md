@@ -91,7 +91,7 @@
 <div align="left">
   <a href="https://www.linkedin.com/in/seif-aldin-yasser-53057b359"><img src="https://static.vecteezy.com/system/resources/thumbnails/023/986/970/small_2x/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png" height="40" alt="linkedin logo"/></a>
   <img width="12" />
-  <a href="mailto:seifaldin.yasser11@gmail.com"><img src="https://www.pngall.com/wp-content/uploads/12/Gmail-Logo-PNG-Images.png" height="40" alt="gmail logo"/></a>
+  <a href="mailto:seifaldin.yasser11@gmail.co"><img src="https://www.pngall.com/wp-content/uploads/12/Gmail-Logo-PNG-Images.png" height="40" alt="gmail logo"/></a>
 </div>
 
 ###
