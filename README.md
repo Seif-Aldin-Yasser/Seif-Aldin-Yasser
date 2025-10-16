@@ -24,7 +24,7 @@
   <img width="12" />
 <a href="https://www.w3schools.com/sql/"><img src="https://assets-global.website-files.com/5ecbeb8d7557e7f636691721/65837a5b8d4c796dcf51d5d4_Azure-SQL-database_logo.png" height="40" alt="sql logo"  /></a> 
   <img width="12" />
-  <a href="https://www.selenium.dev/"><img src="https://th.bing.com/th/id/R.9c5dc187003386ca0d6d0841858b32ba?rik=5XK7dBYz518Ehg&riu=http%3a%2f%2fwww.seleniumhq.org%2fimages%2fselenium-logo.png&ehk=Lpj11ZnD0MH5aVg36rAt8dkpC5xgkABJdbyxYU4tlpU%3d&risl=&pid=ImgRaw&r=0" height="40" alt="selenium logo"/></a>
+  <a href="https://www.selenium.dev/"><img src="https://img.icons8.com/?size=512&id=38553&format=png" height="40" alt="selenium logo"/></a>
   <img width="12" />
    <a href="https://appium.io/docs/en/latest/"><img src="https://th.bing.com/th/id/R.5b8483b66d7931f0a03d50b51a4e920d?rik=%2bE29URy6WxR20w&riu=http%3a%2f%2fdefinitiontech.co%2fwp-content%2fuploads%2f2018%2f05%2fappium-logo.png&ehk=1ot5yuhGfqeR0kbkt9U278HTWJeiU2c5rR4mBycv26k%3d&risl=&pid=ImgRaw&r=0" height="35" alt="appium logo"/></a>
    <img width="12" />
