@@ -59,7 +59,7 @@
   <img width="12" />
   <a href="https://www.jetbrains.com/idea/"><img src="https://th.bing.com/th/id/R.98865e06d77faca32b3e118df119049e?rik=AU0%2bE0ROLAbnog&riu=http%3a%2f%2flogonoid.com%2fimages%2fintellij-idea-logo.png&ehk=CapqYnZAeX0cbsUWxFNWr913YwdQDC7OFt%2ftIAEb%2fBU%3d&risl=&pid=ImgRaw&r=0" height="35" alt="intellij idea logo"/></a>
   <img width="12" />
-  <a href="https://code.visualstudio.com/"><img src="https://www.pngegg.com/en/png-nuhvf" height="35" alt="visual studio code logo"/></a>
+  <a href="https://code.visualstudio.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" height="35" alt="visual studio code logo"/></a>
   <img width="12" />
   <a href="https://developer.android.com/studio"><img src="https://th.bing.com/th/id/R.2c194427c551c3e628064e359ee8ad82?rik=abNPb5JkoZj8iw&pid=ImgRaw&r=0" height="35" alt="android studio code logo"/></a> 
   <img width="12" />
