@@ -41,7 +41,7 @@
 
 ###
 <div align="left">
-  <a href="https://www.atlassian.com/software/jira"><img src="https://pnghdpro.com/wp-content/themes/pnghdpro/download/social-media-and-brands/atlassian-jira-logo-icon.png" height="35" alt="jira logo"  /></a>
+  <a href="https://www.atlassian.com/software/jira"><img src="https://pnghdpro.com/wp-content/themes/pnghdpro/download/social-media-and-brands/atlassian-jira-logo-icon.pn" height="35" alt="jira logo"  /></a>
   <img width="12" />
   <a href="https://www.office.com/"><img src="https://logos-world.net/wp-content/uploads/2021/02/Microsoft-Office-365-Emblem.png" height="35" alt="microosoft office packages logo"  /></a>
   <img width="12" />
