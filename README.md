@@ -5,7 +5,7 @@
 <h2 align="left">👨‍💻  About Me</h2>
 
 ###
-<h3>- 🧑‍💼 I'm currently a Management Information Systems Specialist at Thebes Academy.
+<h3>- 🧑‍💼 I'm currently a Information Systems Specialist at Thebes Academy.
 <h3>- 🧑‍💼 I'm currently a Teaching Assistant at Thebes Academy.
 <h3>- 🎓 I Earned a Bachelor's Degree in Computer Science from Thebes Academy in 2021.</h3>
 
