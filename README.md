@@ -18,7 +18,7 @@
 <div align="left">
   <a href="https://www.java.com/en/"><img src="https://www.svgrepo.com/show/184143/java.svg" height="40" alt="java logo"  /></a>
   <img width="12" />
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://icon2.cleanpng.com/20180917/rgp/kisspng-javascript-logo-product-design-brand-1713939908433.webp" height="40" alt="javascript logo"/></a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://static.vecteezy.com/system/resources/thumbnails/048/332/149/small_2x/js-icon-transparent-background-free-png.png" height="40" alt="javascript logo"/></a> 
   <img width="12" />
     <a href="https://www.python.org/"><img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/128/python-icon.png" height="40" alt="python logo"/></a> 
   <a href="https://isocpp.org/"><img src="https://miro.medium.com/v2/resize:fit:1358/1*C4SccvODYv4SBypJFmYAEw.png" height="40" alt="c++ logo"  /></a>
