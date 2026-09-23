@@ -43,7 +43,7 @@
 
 ###
 <div align="left">
-  <a href="https://www.atlassian.com/software/jira"><img src="https://www.vhv.rs/dpng/d/545-5452076_jira-logo-jira-icon-png-transparent-png-download.png" height="35" alt="jira logo"  /></a>
+  <a href="https://www.atlassian.com/software/jira"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/atlassian-jira-icon.png" height="35" alt="jira logo"  /></a>
   <img width="12" />
   <a href="https://www.office.com/"><img src="https://logos-world.net/wp-content/uploads/2021/02/Microsoft-Office-365-Emblem.png" height="35" alt="microosoft office packages logo"  /></a>
   <img width="12" />
