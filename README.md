@@ -21,7 +21,7 @@
   <a href="https://isocpp.org/"><img src="https://miro.medium.com/v2/resize:fit:1358/1*C4SccvODYv4SBypJFmYAEw.png" height="40" alt="c++ logo"  /></a>
   <img width="12" />
   <a href="https://www.python.org/"><img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/128/python-icon.png" height="40" alt="python logo"/></a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" height="40" alt="javascript logo"/></a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbFLnbsdkXIqGsITrpb-ERyCX6l7T1S21r4XiXab5c-Ejb17rkxgaRVDs&s=10" height="40" alt="javascript logo"/></a> 
   <img width="12" />
 <a href="https://www.w3schools.com/sql/"><img src="https://assets-global.website-files.com/5ecbeb8d7557e7f636691721/65837a5b8d4c796dcf51d5d4_Azure-SQL-database_logo.png" height="40" alt="sql logo"  /></a> 
   <img width="12" />
