@@ -63,7 +63,7 @@
   <img width="12" />
   <a href="https://code.visualstudio.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" height="35" alt="visual studio code logo"/></a>
   <img width="12" />
-  <a href="https://developer.android.com/studio"><img src="https://th.bing.com/th/id/R.2c194427c551c3e628064e359ee8ad82?rik=abNPb5JkoZj8iw&pid=ImgRaw&r=0" height="35" alt="android studio code logo"/></a> 
+  <a href="https://developer.android.com/studio"><img src="https://www.vhv.rs/dpng/d/11-113375_android-studio-icon-png-transparent-png.png" height="35" alt="android studio code logo"/></a> 
   <img width="12" />
   <a href="https://git-scm.com/"><img src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-512.png" height="35" alt="git logo"/></a>
   <img width="12" />
