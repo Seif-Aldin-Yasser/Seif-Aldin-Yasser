@@ -43,7 +43,7 @@
 
 ###
 <div align="left">
-  <a href="https://www.atlassian.com/software/jira"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/atlassian-jira-icon.png" height="35" alt="jira logo"  /></a>
+  <a href="https://www.atlassian.com/software/jira"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/atlassian-jira-icon.png" height="35" alt="jira logo"/></a>
   <img width="12" />
   <a href="https://www.office.com/"><img src="https://logos-world.net/wp-content/uploads/2021/02/Microsoft-Office-365-Emblem.png" height="35" alt="microosoft office packages logo"  /></a>
   <img width="12" />
@@ -51,7 +51,7 @@
   <img width="12" />
   <a href="https://www.postman.com/"><img src="https://cdn.freelogovectors.net/wp-content/uploads/2020/12/postman-logo.png" height="35" alt="postman logo"></a>
   <img width="12" />
-  <a href="https://www.mysql.com/"><img src="https://th.bing.com/th/id/R.bab2c760c60f17191cb3a002e08a3dbf?rik=X5IeaawJvNTZDg&pid=ImgRaw&r=0" height="35" alt="mysql logo"/></a>
+  <a href="https://www.mysql.com/"><img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" height="35" alt="mysql logo"/></a>
   <img width="12" />
   <a href="https://www.microsoft.com/en/sql-server/?msockid=1de1cf97d03f613f341ada7fd143608d"><img src="https://www.freeiconspng.com/uploads/sql-server-icon-png-1.png" height="35" alt="microsoft sql server logo"  /></a>
   <img width="12" />
