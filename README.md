@@ -6,7 +6,7 @@
 
 ###
 <h3>- 🧑‍💼 I'm currently a Student Information Systems Administrator at Thebes Academy.
-<h3>- 🧑‍💼 I'm currently a Teaching Assistant at Thebes Academy.
+<h3>- 🧑‍💼 I'm currently a Computer Science Teaching Assistant at Thebes Academy.
 <h3>- 🎓 I earned a Bachelor's Degree in Computer Science from Thebes Academy in 2021.</h3>
 
 ###
